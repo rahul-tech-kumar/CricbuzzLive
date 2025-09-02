@@ -65,9 +65,9 @@ Followed best practices for clean layout, navigation tabs, and error handling.
 
 - app.py – Main Streamlit dashboard
 
-- db.py – MySQL connection & queries
+- test.ipynb – MySQL connection & queries
 
-- utils.py – Helper functions for API + data handling
+- main.ipynb – Helper functions for API + data handling
 
 - requirements.txt – Project dependencies
 
