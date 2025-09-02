@@ -41,7 +41,7 @@ Followed best practices for clean layout, navigation tabs, and error handling.
 
 - dotenv → Environment variable management
 
-- Plotly/Matplotlib → (Optional) charts & stats
+- Plotly/Matplotlib →  charts & stats
 
   ## 🖼️ Preview
   
