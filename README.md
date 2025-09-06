@@ -1,13 +1,13 @@
 # 🏏 Cricbuzz Live Dashboard
 
 Tools Used: Streamlit, Python, MySQL, Pandas, API
-Duration: [Insert Month-Year to Month-Year]
+
 
 Designed and developed a live cricket dashboard fetching real-time data from the Cricbuzz API.
 
 Implemented Admin Panel with MySQL for player management.
 
-Built modular architecture with app.py, db.py, and utils.py for clean code separation.
+Built modular architecture with app.py, test.ipynb, and main.ipynb for clean code separation.
 
 Used .env for securing API keys and database credentials.
 
